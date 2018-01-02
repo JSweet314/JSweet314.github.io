@@ -1,3 +1,6 @@
 [submodule "js-comp-challenge-1"]
 	path = js-comp-challenge-1
 	url = https://github.com/JSweet314/js-comp-challenge-1
+[submodule "js-comp-challenge-2"]
+	path = js-comp-challenge-2
+	url = https://github.com/JSweet314/js-comp-challenge-2.git
